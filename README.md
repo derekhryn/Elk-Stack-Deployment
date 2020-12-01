@@ -5,7 +5,6 @@ Automated ELK Stack Deployment
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Playbook file may be used to install only certain pieces of it, such as Filebeat.
 
 
-Automated ELK Stack Deployment
 
 
 ![Project Elk ss](https://user-images.githubusercontent.com/67016167/100650738-601eef00-3312-11eb-9955-91ae935dffe2.png)
